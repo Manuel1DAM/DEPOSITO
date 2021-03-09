@@ -106,9 +106,7 @@ public class CCuenta {
         saldo = saldo - cantidad;
     }
     
-    public void metodoVacio(){
-        System.out.println("Este es mi método vacio para el segundo commit");
-    }
+    
 
             
             
