@@ -9,6 +9,7 @@ package Cuentas;
      * @version 8.2 RC
      * @author Manuel Garcia
      * @since 09/03/2021
+     * Visto. Pedí el enlace al repositorio en el trabajo
      */
 public class CCuenta {
     
